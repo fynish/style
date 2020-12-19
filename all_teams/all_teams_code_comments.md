@@ -1,4 +1,4 @@
-[Style](../README.md) > [General](./README.md)
+[Style](../README.md#fynish-style) > [General](./README.md)
 
 # Code Comments
  
@@ -41,7 +41,7 @@ function FetchService(method, url, body = null) {
 ```
 
     
-[_top of page_](#)
+[_top of page_](#code-comments)
 
 ---
 Copyright © 2020-2021. Released under a [MIT License](https://opensource.org/licenses/MIT).

@@ -1,3 +1,5 @@
+[Style](./README.md#fynish-style)
+
 # Contributing
 
 Nothing here is immutable. If we are wrong about something, submit a **well thought out, well written** PR explaining why a different choice better meets the goals we've outline for this guide. Links to blog posts or conference talks (including your own) are encouraged.

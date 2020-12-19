@@ -1,6 +1,6 @@
-[Style](../README.md)
+[Style](../README.md#fynish-style)
 
-# JavaScript - Overview
+# JavaScript: Overview
 
   - [Linting](#linting)
   - [File Organization](#file-organization)
@@ -14,7 +14,9 @@
 Code should adhere to:
   - Eslint *(w/ Airbnb's Style)*
 
-Note that as part of our [all teams linting](../all_teams_linting.md) we require the use of double quotes in addition to the above linting rules. JS does not care, but the default requirement from Airbnb's Eslint is single quotes. This will have to be overridden.
+Note that as part of our [all teams linting](../all_teams/all_teams_linting.md) we require the use of double quotes in addition to the above linting rules. JS does not care, but the default requirement from Airbnb's Eslint is single quotes. This will have to be overridden.
+
+[_top of page_](#javascript-overview)
 
 ---
 ## File Organization
@@ -38,10 +40,14 @@ interest_handling
     - rest_hadlers_test.js
 ```
 
+[_top of page_](#javascript-overview)
+
 ---
 ## Testing
 
-Test should use (Jest)[https://jestjs.io/].
+Test should use [Jest](https://jestjs.io/).
+
+[_top of page_](#javascript-overview)
 
 ---
 Copyright © 2020-2021. Released under a [MIT License](https://opensource.org/licenses/MIT).

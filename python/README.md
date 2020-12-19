@@ -1,6 +1,6 @@
-[Style](../README.md)
+[Style](../README.md#fynish-style)
 
-# Python - Overview
+# Python: Overview
 
   - [Linting](#linting)
   - [File Organization](#file-organization)
@@ -15,7 +15,9 @@ Code should adhere to:
   - Pylint
   - Flake8
 
-Note that as part of our [all teams linting](../all_teams_linting.md) we require the use of double quotes in addition to the above linting rules.
+Note that as part of our [all teams linting](../all_teams/all_teams_linting.md) we require the use of double quotes in addition to the above linting rules.
+
+[_top of page_](#python-overview)
 
 ---
 ## File Organization
@@ -38,6 +40,8 @@ interest_handling
     - rest_hadlers.py
     - rest_hadlers_test.py
 ```
+
+[_top of page_](#python-overview)
 
 ---
 Copyright © 2020-2021. Released under a [MIT License](https://opensource.org/licenses/MIT).

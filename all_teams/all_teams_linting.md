@@ -1,4 +1,4 @@
-[Style](../README.md) > [General](./README.md)
+[Style](../README.md#fynish-style) > [General](./README.md)
 
 # Linting
  
@@ -20,7 +20,7 @@ The use of TODO comments is allowed, but only if that comment has an issue numbe
 // TODO: This uses a slow API. When the new API is finished, switch to that.
 ```
     
-[_top of page_](#)
+[_top of page_](#linting)
 
 ---
 Copyright © 2020-2021. Released under a [MIT License](https://opensource.org/licenses/MIT).

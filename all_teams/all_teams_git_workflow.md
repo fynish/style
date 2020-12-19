@@ -1,6 +1,8 @@
-[Style](../README.md) > [General](./README.md)
+[Style](../README.md#fynish-style) > [General](./README.md)
 
 # Git Workflow
+
+This workflow assumes your team is using Github, but the same principles apply if your team uses GitLab, Bitbucket, or some other similiar service.
 
 **A brief overview of how our team uses git and github**
 
@@ -19,14 +21,14 @@
 ## Starting New Issues
 When starting a new issue, assign it to yourself and mark the issue `WIP` (work-in-progress).
 
-[_top of page_](#)
+[_top of page_](#git-workflow)
 
 ---
 ## Branch Naming
 The branch on which you are working should be named in the format `issue-[issue number]/title-of-issue`.
 Add leading `0`s as needed to end up with four numbers. Example: `issue-0012/make-everything-shiny`
 
-[_top of page_](#)
+[_top of page_](#git-workflow)
 
 ---
 ## PRs
@@ -45,7 +47,7 @@ Part of #5678 Some Overly Broad Issue Name
 ### CI Check:
 CI will automatically run on your code as soon as you push it to github. All code must pass the CI checks before being merged. This will include running tests, linters, and code coverage checks. You will see individual green checks (or red Xs) indicating pass/fail for each CI criteria.
 
-[_top of page_](#)
+[_top of page_](#git-workflow)
 
 ---
 ### Merging to Master
@@ -103,10 +105,10 @@ Date:   Tue Nov 16 13:26:00 2021
 feat: Add new async RadarLib service 
 ```
 
-[_top of page_](#)
+[_top of page_](#git-workflow)
 
 ---
 ## How Strict Are The Rules
 This is just general information about how we do things as a team. For anything we are not enforcing via CI rules (i.e. everything in this workflow), these are only our preferences. We are expecting you to make a reasonable, informed decision as to what is best for your specific scenario. You will have the most context into whatever issue you are working on. So, make good choices, and don't do dumb things.
 
-[_top of page_](#)
+[_top of page_](#git-workflow)
