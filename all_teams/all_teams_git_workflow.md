@@ -19,14 +19,14 @@
 ## Starting New Issues
 When starting a new issue, assign it to yourself and mark the issue `WIP` (work-in-progress).
 
-[_top of page_](#git-workflow)
+[_top of page_](#)
 
 ---
 ## Branch Naming
 The branch on which you are working should be named in the format `issue-[issue number]/title-of-issue`.
 Add leading `0`s as needed to end up with four numbers. Example: `issue-0012/make-everything-shiny`
 
-[_top of page_](#git-workflow)
+[_top of page_](#)
 
 ---
 ## PRs
@@ -45,7 +45,7 @@ Part of #5678 Some Overly Broad Issue Name
 ### CI Check:
 CI will automatically run on your code as soon as you push it to github. All code must pass the CI checks before being merged. This will include running tests, linters, and code coverage checks. You will see individual green checks (or red Xs) indicating pass/fail for each CI criteria.
 
-[_top of page_](#git-workflow)
+[_top of page_](#)
 
 ---
 ### Merging to Master
@@ -59,7 +59,7 @@ commit f1bba9ca8d7b14f42ac7
 Author: Malcolm Reynolds <mreynolds@browncoat.tld>
 Date:   Tue Nov 16 19:08:04 2021 
 
-Add new InventoryLib to Interact with Radar (#1234)
+Add new InventoryLib (#1234)
 * Get initial version working 
 
 * Add better filtering.
@@ -78,7 +78,7 @@ commit f1bba9ca8d7b14f42ac7
 Author: Malcolm Reynolds <mreynolds@browncoat.tld>
 Date:   Tue Nov 16 19:08:04 2021 
 
-Add new InventoryLib to Interact with Radar (#1234)
+Add new InventoryLib (#1234)
 ```
 
 
@@ -103,10 +103,10 @@ Date:   Tue Nov 16 13:26:00 2021
 feat: Add new async RadarLib service 
 ```
 
-[_top of page_](#git-workflow)
+[_top of page_](#)
 
 ---
 ## How Strict Are The Rules
 This is just general information about how we do things as a team. For anything we are not enforcing via CI rules (i.e. everything in this workflow), these are only our preferences. We are expecting you to make a reasonable, informed decision as to what is best for your specific scenario. You will have the most context into whatever issue you are working on. So, make good choices, and don't do dumb things.
 
-[_top of page_](#git-workflow)
+[_top of page_](#)

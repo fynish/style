@@ -1,5 +1,8 @@
 # Contributing
 
-Presumingly you are here because you are working on a Fynish project.
+Nothing here is immutable. If we are wrong about something, submit a **well thought out, well written** PR explaining why a different choice better meets the goals we've outline for this guide. Links to blog posts or conference talks (including your own) are encouraged.
 
-Anyone can submit style guide/project workflow type PRs to this repo. However, know that we are going to be incredibly picky about anything getting merged here. We are using this guide for our internal projects, so we can't really have it diverge from the standards currently being applied.
+Anyone (inside or outside of Fynish) can submit PRs to this repo. However, know that we are going to be incredibly picky about anything getting merged here.
+
+---
+Copyright © 2020-2021. Released under a [MIT License](https://opensource.org/licenses/MIT).
