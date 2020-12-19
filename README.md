@@ -5,6 +5,14 @@
  - [**General**](all_teams/README.md): Language Agnostic, General Practices
 
 
+**Language Specific**
+ - **Go**
+   - [Overview](go/README.md)
+ - **JavaScript**
+   - [Overview](js/README.md)
+ - **Python**
+   - [Overview](python/README.md)
+
 ---
 ## Goals of this Guide
 

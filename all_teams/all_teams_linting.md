@@ -20,7 +20,7 @@ The use of TODO comments is allowed, but only if that comment has an issue numbe
 // TODO: This uses a slow API. When the new API is finished, switch to that.
 ```
     
-[_top of page_](#git-workflow)
+[_top of page_](#)
 
 ---
 Copyright © 2020-2021. Released under a [MIT License](https://opensource.org/licenses/MIT).
