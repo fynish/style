@@ -8,7 +8,7 @@ Teams should follow the linting rules decided for the language in which they wor
 - [TODOs](#todos)
 
 ## TODOs
-The use of TODO comments is allowed, but only if that comment has an issue number that corresponds to your team's tickiting system.
+The use of TODO comments is allowed, but only if that comment has an issue number that corresponds to your team's ticketing system.
 
 **Passes Linting:**
 ```
