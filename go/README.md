@@ -15,7 +15,7 @@ Go doesn't give you as much leeway as some of the other languages we use. This s
 
 It's common in go to have a flat organizational structure. We are fine with this if you are making a very small app/module. 
 
-If you know in advance that your app will be larger, files should be separated into logical subdirectories. As your small app or module begins to grow, you should reorganize it into directories as soon as it makes sense to do so. Make sure you are moving your files in a way that preserves the git history.
+If you know in advance that your app will be larger, files should be separated into logical subdirectories *(while avoiding stutter)*. As your small app or module begins to grow, you should reorganize it into directories as soon as it makes sense to do so. *(Make sure you are moving your files in a way that preserves the git history.)*
 
 
 [_top of page_](#go-overview)
@@ -26,12 +26,12 @@ If you know in advance that your app will be larger, files should be separated i
 Test files should be placed in the same directory as the files they are testing. The test file names should should be the same as the file they are testing, but with `_test` appended to the end.
 
 ```
-- input_parse
+▾ input_parse
   - ingest_user_input.go
   - ingest_user_input_test.go
   - filter_outliers.go
   - filter_outliers_test.go
-- output_format
+▾ output_format
   - generate_response.go
   - generate_response_test.go
 main.go

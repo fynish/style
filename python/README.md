@@ -29,16 +29,17 @@ Projects should not use a flat organizational structure, but should instead grou
 ### Test Files
 
 Test files should be placed in the same directory as the files they are testing – *not in a separate "test" directory*. The test file names should should be the same as the file they are testing, but with `_test` appended to the end.
+
 ```
-interest_handling
-  - utilities
+▾ interest_handling
+  ▾ utilities
     - interest_calculations.py
     - interest_calculations_test.py
     - future_projections.py
     - future_projections_test.py
-  - api
-    - rest_hadlers.py
-    - rest_hadlers_test.py
+  ▾ api
+    - rest_handlers.py
+    - rest_handlers_test.py
 ```
 
 [_top of page_](#python-overview)
