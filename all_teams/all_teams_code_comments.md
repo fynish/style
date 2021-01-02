@@ -4,7 +4,7 @@
  
 As a general rule, we are very selective in our use of code comments. The code should generally speak for itself. If comments do exist:
 1. They should **describe how it's consumed** and **not what the code does**.
-2. Comments can include code if that is the best way to describe your message, but do not mrege commented out blocks of code.
+2. Comments can include code if that is the best way to describe your message, but do not merge commented out blocks of code.
 3. TODOs are permissible if they [pass linting](./all_teams_linting.md).
 
 ### Example Bad Comments
